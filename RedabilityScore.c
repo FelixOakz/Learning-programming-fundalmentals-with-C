@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <math.h>
 
-# - A any text readability rating based on the Coleman-Liau index - 
+# - An any text readability rating, based on the Coleman-Liau index formula - 
 
 
 int main(void)
