@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <stdlib.h>
 
-# - A "cryptosystem" to encript any message, based on caesar cypher -
+// - A 'cryptosystem' to encript any message, based on caesar cypher -
 
 // cypher text to plaintext using a key
 // key - prompt user - plaintext - output
