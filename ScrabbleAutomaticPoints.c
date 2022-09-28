@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 
-# - A code to give each word point in the scrabble game -
+# - A code to calculate the score of each word in the scrabble game -
 
 
 // Points assigned to each letter of the alphabet
